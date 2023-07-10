@@ -2,9 +2,7 @@ package JunitTesting;
 
 public class MathUtil {
 
-    private MathUtil() {
-        throw new UnsupportedOperationException("Cannot call constructor directly!");
-    }
+
 
     public static int divide(int dividend, int divisor) {
         if (divisor == 0) {
@@ -16,4 +14,7 @@ public class MathUtil {
     public static int add(int number1, int number2) {
         return number1 - number2;
     }
+//    public static int []{
+//
+//    }
 }

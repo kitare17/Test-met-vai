@@ -4,21 +4,18 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="44b2e318-8220-4cc8-9aa2-ab002b352ffd" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/JunitTesting/MathUtil.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/JunitTesting/MathUtilTest.java" afterDir="false" />
+    <list default="true" id="44b2e318-8220-4cc8-9aa2-ab002b352ffd" name="Changes" comment="met qua huhu">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/JunitTesting/MathUtil.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/JunitTesting/MathUtil.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/JunitTesting/MathUtilTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/JunitTesting/MathUtilTest.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ExportToHTMLSettings">
+    <option name="OUTPUT_DIRECTORY" value="D:\SWT301-testing-software\Presentation" />
   </component>
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
@@ -48,6 +45,7 @@
     "WebServerToolWindowFactoryState": "false",
     "com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrary": "JUnit4",
     "com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrarySuperClass.JUnit4": "",
+    "last_opened_file_path": "D:/SWT301-testing-software/Presentation",
     "project.structure.last.edited": "Modules",
     "project.structure.proportion": "0.0",
     "project.structure.side.proportion": "0.0"
@@ -61,7 +59,7 @@
       <recent name="JunitTesting" />
     </key>
   </component>
-  <component name="RunManager" selected="JUnit.MathUtilTest.add">
+  <component name="RunManager" selected="JUnit.MathUtilTest">
     <configuration name="MathUtilTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="Presentation2" />
       <extension name="coverage">
@@ -111,8 +109,8 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="JUnit.MathUtilTest.add" />
         <item itemvalue="JUnit.MathUtilTest" />
+        <item itemvalue="JUnit.MathUtilTest.add" />
         <item itemvalue="JUnit.MathUtilTest.divide" />
       </list>
     </recent_temporary>
@@ -125,8 +123,16 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1688994697564</updated>
-      <workItem from="1688994699268" duration="986000" />
+      <workItem from="1688994699268" duration="2800000" />
     </task>
+    <task id="LOCAL-00001" summary="met qua huhu">
+      <created>1688996061075</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1688996061075</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -143,8 +149,12 @@
       </map>
     </option>
   </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="met qua huhu" />
+    <option name="LAST_COMMIT_MESSAGE" value="met qua huhu" />
+  </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
-    <SUITE FILE_PATH="coverage/Presentation2$MathUtilTest.ic" NAME="MathUtilTest Coverage Results" MODIFIED="1688995637669" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
+    <SUITE FILE_PATH="coverage/Presentation2$MathUtilTest.ic" NAME="MathUtilTest Coverage Results" MODIFIED="1688997139309" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
       <FILTER>JunitTesting.*</FILTER>
     </SUITE>
   </component>
