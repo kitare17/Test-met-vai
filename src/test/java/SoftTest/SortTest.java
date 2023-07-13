@@ -37,6 +37,7 @@ public class SortTest {
 
     @Test
     public void selectSortTest() {
+        //ok
         int expect[] = afterArray;
         System.out.println(Arrays.toString(beforeArray));
         int actual[] = Sort.selectionSort(beforeArray);
